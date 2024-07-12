@@ -1,6 +1,6 @@
 # Traffic Accident Analysis
 
- Project Overview
+ Task Overview
 This project, completed during my data science internship at Prodigy Infotech, involves analyzing and visualizing traffic accident data to identify patterns related to road conditions, weather, and time of day. The goal is to identify accident hotspots and contributing factors.
 
  Dataset
